@@ -3,7 +3,7 @@ import pickle
 
 pygame.init()
 
-# constants
+# define constants
 SCREEN_WIDTH = 980
 SCREEN_HEIGHT = 630
 SIDE_MARGIN = 200
