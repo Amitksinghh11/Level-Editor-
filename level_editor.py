@@ -1,7 +1,6 @@
 import pygame
 import pickle
 
-
 pygame.init()
 
 # constants
